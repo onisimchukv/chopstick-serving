@@ -1,4 +1,4 @@
 colorama==0.3.9
-grpcio==1.10.0
+grpcio==1.53.2
 numpy==1.14.1
 tensorflow==1.6.0
